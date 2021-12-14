@@ -1,0 +1,16 @@
+azucar;38011678;211016011;false;false;1500;500;alimentos
+arroz;38011679;211016021;false;false;3400;250;alimentos
+aceite;38011680;211016031;false;false;9000;1000;alimentos
+harina;38011681;211016041;false;false;3800;1000;alimentos
+yogurt;38011682;211016051;false;true;8700;1000;alimentos
+jabon;49012788;211016062;false;false;2600;100;limpieza
+suavizante;49012789;211016072;false;false;20000;3000;limpieza
+esponja;49012790;211016082;false;false;1200;5;limpieza
+cloro;49012791;211016092;false;false;3200;2500;limpieza
+guantes;49012792;211016102;false;false;10200;10;limpieza
+algodon;56013898;211016113;false;false;6000;100;higiene
+desodorante;56013899;211016123;false;false;15000;200;higiene
+shampoo;56013810;211016133;false;false;11000;1000;higiene
+acondicionador;56013811;211016143;false;false;12000;1000;higiene
+colgate;56013812;211016153;false;false;7900;120;higiene
+
